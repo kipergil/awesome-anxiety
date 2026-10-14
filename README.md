@@ -114,6 +114,7 @@ Contributions welcome — open an issue or PR to suggest new links.
 
 - [r/Anxiety](https://www.reddit.com/r/Anxiety/) — Reddit's largest anxiety-support community, with an extensive FAQ and hundreds of thousands of members
 - [r/socialanxiety](https://www.reddit.com/r/socialanxiety/) — Peer support community focused specifically on social anxiety, coping strategies, and recovery stories
+- [veisund](https://www.veisund.com/) — Anonymous peer-support app and site where people post about anxiety and other struggles under a handle they choose, and members who have been there can answer
 
 ### Find a Therapist
 
