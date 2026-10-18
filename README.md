@@ -107,6 +107,7 @@ Contributions welcome — open an issue or PR to suggest new links.
 - [Breathwrk](https://www.breathwrk.com/) — Guided breathing exercises for stress and anxiety, with over 50 techniques paired with music and haptics
 - [Calm](https://www.calm.com/) — Meditation and sleep app with an SOS feature for acute anxiety moments and calming Sleep Stories
 - [Headspace](https://www.headspace.com/) — Meditation app whose structured Managing Anxiety course teaches observing anxious thoughts without engaging them
+- [Sen](https://apps.apple.com/us/app/sen-ai-mental-wellness/id6818973571) — AI wellness companion for iOS with lotus-guided breathing, a 5-4-3-2-1 grounding exercise and a mood journal, in English and Vietnamese; shows verified local helplines when it detects risk
 
 ## Community & Support
 
