@@ -270,6 +270,19 @@ main{min-width:0;padding:1.75rem 1.5rem 4rem}
 .btn-ghost{background:var(--surface);border-color:var(--border-strong);color:var(--text-primary)}
 .btn-ghost:hover{background:var(--surface-2)}
 
+/* ===================== Support banner ===================== */
+.support-banner{
+  display:flex;align-items:center;justify-content:space-between;gap:1.25rem;flex-wrap:wrap;
+  background:linear-gradient(135deg, rgba(255,94,91,0.14), rgba(255,94,91,0.02) 70%), var(--surface);
+  border:1px solid rgba(255,94,91,0.4);border-radius:var(--radius-lg);
+  padding:1.1rem 1.4rem;margin-bottom:2rem;box-shadow:var(--shadow-sm);
+}
+.support-banner-text{min-width:0}
+.support-banner-text strong{display:block;font-size:1.02rem;color:var(--text-primary);margin-bottom:.2rem}
+.support-banner-text span{color:var(--text-secondary);font-size:.88rem}
+.btn-kofi{background:#ff5e5b;color:#fff;white-space:nowrap;flex:none}
+.btn-kofi:hover{background:#e4443f}
+
 .skel-line{
   height:.9em;border-radius:6px;background:var(--surface-2);
   background-image:linear-gradient(90deg, var(--surface-2) 0%, var(--border) 50%, var(--surface-2) 100%);
@@ -454,6 +467,16 @@ main{min-width:0;padding:1.75rem 1.5rem 4rem}
           View on GitHub
         </a>
       </div>
+    </section>
+
+    <section class="support-banner" aria-label="Support this project">
+      <div class="support-banner-text">
+        <strong>☕ Keeping this list free and up to date takes real time.</strong>
+        <span>If it helped you find the right support, consider fueling the next update.</span>
+      </div>
+      <a class="btn btn-kofi" href="https://ko-fi.com/kipergil" target="_blank" rel="noopener noreferrer">
+        ☕ Support on Ko-fi
+      </a>
     </section>
 
     <p class="result-summary" id="resultSummary" role="status" aria-live="polite"></p>

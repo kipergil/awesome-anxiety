@@ -2,6 +2,8 @@
 
 > A curated collection of the best anxiety content, creators, self-help tools, research, and places to find support.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kipergil)
+
 Contributions welcome — open an issue or PR to suggest new links.
 
 ## Contents
